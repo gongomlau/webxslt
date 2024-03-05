@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+Autor: Laura González
+Asignatura: LMSGI
+Unidad: UD 4
+Tarea: Tarea evaluativa 2 - XSLT
+Autoevaluación: https://drive.google.com/file/d/1PhgaH9uQj7J_G8jyk85QtIhDQKg1Y-mD/view?usp=drive_link
+-->
 <?xml-stylesheet href="tienda.xsl" type="text/xsl"?>
 <club_voleibol>
 
